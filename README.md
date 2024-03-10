@@ -8,7 +8,7 @@ The model is designed to classify human emotions based on the input data provide
 
 ## Dataset
 
-The model was trained on the "Human Emotions Dataset (HES)" available on Kaggle. This dataset contains labeled examples of human emotions, enabling the model to learn and make predictions based on emotional cues in the input data.
+The model was trained on the **[Human Emotions Dataset (HES)](https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes)** available on Kaggle. This dataset contains labeled examples of human emotions, enabling the model to learn and make predictions based on emotional cues in the input data.
 
 ## Usage
 
